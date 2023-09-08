@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prework</string>
+    <string name="prework_intro">Button</string>
+    <string name="todo">TODO</string>
+    <string name="button_text">Say Hello!</string>
+    <string name="hello_human_this_is_the_prework_lab_required_for_cs388">Hello Human! This is the preWork lab required for CS388.</string>
+</resources>
